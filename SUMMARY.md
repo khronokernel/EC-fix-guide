@@ -4,5 +4,5 @@
 
 ## Patches
 
-* [Desktop users](/desktop-ec.md)
-* [Laptops users](/laptop-ec.md)
+* [Desktop users](desktop-ec.md)
+* [Laptops users](laptop-ec.md)
