@@ -29,7 +29,6 @@ So with macOS catalina, there were some changes in how AppleACPIEC works which m
 
 Well depending on your machine, there are different fixes. See below for your specific system:
 
-* [Desktop users](desktop-ec.md)
-* [Laptop users](laptop-ec.md)
+* [Desktop and Laptop users](https://dortania.github.io/Getting-Started-With-ACPI/Universal/ec-fix.html)
 * [Samsung smart oven users](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
